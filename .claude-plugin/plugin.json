@@ -1,0 +1,22 @@
+{
+  "name": "vacationrental-team-skills",
+  "version": "1.0.0",
+  "description": "8 free Claude skills for vacation-rental property management offices — General Manager, Reservations, Owner Relations, Marketing & Distribution, Housekeeping & Maintenance, Finance & Trust, Guest Experience, and Vibe Coder (web/site builder).",
+  "author": {
+    "name": "MSG2AI",
+    "email": "bart@msg2ai.xyz",
+    "url": "https://msg2ai.xyz"
+  },
+  "homepage": "https://github.com/msg2ai/vacationrental-team-skills",
+  "repository": "https://github.com/msg2ai/vacationrental-team-skills",
+  "license": "MIT",
+  "keywords": [
+    "vacation-rental",
+    "short-term-rental",
+    "property-management",
+    "airbnb",
+    "vrbo",
+    "claude-skills"
+  ],
+  "skills": "./"
+}

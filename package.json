@@ -1,0 +1,49 @@
+{
+  "name": "vacationrental-team-skills",
+  "publishConfig": {
+    "access": "public"
+  },
+  "version": "1.0.0",
+  "description": "8 free Claude skills for vacation-rental property management offices — one for every seat in your office, plus a Vibe Coder for the direct-booking site. Built by MSG2AI.",
+  "keywords": [
+    "claude",
+    "claude-code",
+    "ai",
+    "vacation-rental",
+    "short-term-rental",
+    "airbnb",
+    "vrbo",
+    "property-management",
+    "claude-skills"
+  ],
+  "homepage": "https://github.com/msg2ai/vacationrental-team-skills",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/msg2ai/vacationrental-team-skills.git"
+  },
+  "author": {
+    "name": "MSG2AI",
+    "email": "bart@msg2ai.xyz",
+    "url": "https://msg2ai.xyz"
+  },
+  "license": "MIT",
+  "bin": {
+    "vacationrental-team-skills": "./bin/cli.js"
+  },
+  "files": [
+    "bin/",
+    "vacationrental-general-manager/",
+    "vacationrental-bookings-reservations/",
+    "vacationrental-owner-relations/",
+    "vacationrental-marketing-distribution/",
+    "vacationrental-housekeeping-maintenance/",
+    "vacationrental-finance-trust/",
+    "vacationrental-guest-experience/",
+    "vacationrental-vibe-coder/",
+    ".claude-plugin/",
+    "docs/",
+    "CLAUDE.md",
+    "LICENSE",
+    "README.md"
+  ]
+}
