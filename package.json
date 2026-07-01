@@ -41,6 +41,7 @@
     "vacationrental-guest-experience/",
     "vacationrental-vibe-coder/",
     ".claude-plugin/",
+    "setup/",
     "docs/",
     "CLAUDE.md",
     "LICENSE",
